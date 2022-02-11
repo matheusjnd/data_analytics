@@ -1,2 +1,2 @@
-# Análise de dados
-Meu portfólio de projetos para Análise de dados e Data Science
+# Analytics
+My portfolio of Data Analytics projects
